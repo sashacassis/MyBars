@@ -14,6 +14,7 @@
 		1041417227BFFAF900B3C11D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1041417027BFFAF900B3C11D /* LaunchScreen.storyboard */; };
 		1041417A27BFFB4900B3C11D /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1041417927BFFB4900B3C11D /* MainViewController.swift */; };
 		1041417C27C00BE800B3C11D /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1041417B27C00BE800B3C11D /* TableViewCell.swift */; };
+		1041417E27C11F7E00B3C11D /* PlaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1041417D27C11F7D00B3C11D /* PlaceModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1041417327BFFAF900B3C11D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1041417927BFFB4900B3C11D /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		1041417B27C00BE800B3C11D /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		1041417D27C11F7D00B3C11D /* PlaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				1041416527BFFAF400B3C11D /* AppDelegate.swift */,
 				1041417927BFFB4900B3C11D /* MainViewController.swift */,
+				1041417D27C11F7D00B3C11D /* PlaceModel.swift */,
 				1041417B27C00BE800B3C11D /* TableViewCell.swift */,
 				1041416727BFFAF400B3C11D /* SceneDelegate.swift */,
 				1041416B27BFFAF400B3C11D /* Main.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				1041417A27BFFB4900B3C11D /* MainViewController.swift in Sources */,
 				1041417C27C00BE800B3C11D /* TableViewCell.swift in Sources */,
+				1041417E27C11F7E00B3C11D /* PlaceModel.swift in Sources */,
 				1041416627BFFAF400B3C11D /* AppDelegate.swift in Sources */,
 				1041416827BFFAF400B3C11D /* SceneDelegate.swift in Sources */,
 			);
